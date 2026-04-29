@@ -8,7 +8,7 @@ This portfolio contains my featured work, technical skills, certifications, and 
 ---
 
 ## 🔗 Live Portfolio Website
-👉 [Visit My Portfolio]([https://your-portfolio-url.com](https://portfolio-website-six-red-23.vercel.app/))
+👉 [Visit My Portfolio](https://your-portfolio-url.com](https://portfolio-website-six-red-23.vercel.app/))
 
 ---
 
